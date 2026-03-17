@@ -1,0 +1,33 @@
+{
+  "name": "repopet",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A digital pet that evolves from GitHub repository activity.",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "generate:pet": "tsx src/cli/main.ts",
+    "generate:pet:dry": "tsx src/cli/main.ts --dry-run",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@octokit/rest": "^22.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.7.2",
+    "@typescript-eslint/eslint-plugin": "^8.44.1",
+    "@typescript-eslint/parser": "^8.44.1",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.4"
+  },
+  "packageManager": "pnpm@10.17.1"
+}
