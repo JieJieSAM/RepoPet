@@ -3,6 +3,7 @@ import type { ZooRepositoryPet } from "../entities/ZooRepositoryPet.js";
 import type { AccountRepositorySummary, AccountAggregateMetrics } from "../entities/AccountSummary.js";
 import { REPOSITORY_STYLE_TAGS, type RepositoryStyleTag } from "../value-objects/RepositoryStyleTag.js";
 import { classifyRepositoryStyle } from "./classifyRepositoryStyle.js";
+import { deriveSpeciesFromLanguage } from "../speciesMapping.js";
 
 export interface RepositorySummaryResult {
   repositories: AccountRepositorySummary[];
@@ -112,6 +113,8 @@ export const summarizeRepositories = (repositoryPets: ZooRepositoryPet[]): Repos
     return {
       name: repositoryPet.repository.name,
       fullName: repositoryPet.repository.fullName,
+      language: repositoryPet.repository.language,
+      species: deriveSpeciesFromLanguage(repositoryPet.repository.language),
       styleTag,
       stats: repositoryPet.stats,
       stage: repositoryPet.stage,

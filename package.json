@@ -10,6 +10,8 @@
   "scripts": {
     "generate:pet": "tsx src/cli/main.ts",
     "generate:pet:dry": "tsx src/cli/main.ts --dry-run",
+    "generate:zoo": "tsx src/cli/zoo.ts",
+    "generate:zoo:dry": "tsx src/cli/zoo.ts --dry-run",
     "test": "vitest run",
     "test:watch": "vitest",
     "lint": "eslint . --ext .ts",

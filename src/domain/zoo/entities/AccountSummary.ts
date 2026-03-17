@@ -3,6 +3,7 @@ import type { PetStage } from "../../value-objects/PetStage.js";
 import type { PetStats } from "../../value-objects/PetStats.js";
 import type { PersonaProfile } from "./PersonaProfile.js";
 import type { RepositoryStyleTag } from "../value-objects/RepositoryStyleTag.js";
+import type { ZooSpecies } from "../speciesMapping.js";
 
 export interface RankedRepository {
   name: string;
@@ -21,6 +22,8 @@ export interface RepositoryRankings {
 export interface AccountRepositorySummary {
   name: string;
   fullName: string;
+  language: string | null;
+  species: ZooSpecies;
   styleTag: RepositoryStyleTag;
   stats: PetStats;
   stage: PetStage;
