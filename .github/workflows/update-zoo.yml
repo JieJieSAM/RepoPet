@@ -1,0 +1,57 @@
+name: Update RepoPet Zoo
+
+on:
+  # Manual trigger from GitHub Actions UI
+  workflow_dispatch:
+  # Daily scheduled update (UTC)
+  schedule:
+    - cron: "17 3 * * *"
+
+# Minimal permission needed to commit generated files back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: repopet-zoo-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-zoo:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "pnpm"
+
+      - name: Install dependencies
+        run: pnpm install --no-frozen-lockfile
+
+      - name: Generate Zoo artifacts
+        run: pnpm generate:zoo
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_OWNER: ${{ github.repository_owner }}
+
+      - name: Commit and push Zoo artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/zoo-dashboard.svg data/account-summary.json
+          if git diff --cached --quiet; then
+            echo "No Zoo changes to commit."
+            exit 0
+          fi
+          git commit -m "chore(zoo): update zoo dashboard"
+          git push
