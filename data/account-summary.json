@@ -1,20 +1,20 @@
 {
   "owner": "JieJieSAM",
-  "generatedAt": "2026-03-17T11:03:23.418Z",
+  "generatedAt": "2026-03-17T11:50:32.743Z",
   "totalReposScanned": 4,
   "metrics": {
     "averageStats": {
-      "health": 50.25,
+      "health": 48.25,
       "mood": 29,
-      "growth": 5.5,
-      "chaos": 15
+      "growth": 6.25,
+      "chaos": 17.5
     },
     "activeReposCount": 2,
     "dormantReposCount": 2,
-    "activitySpread": 2.87,
-    "bugfixCommitRatio": 0.1,
+    "activitySpread": 4.09,
+    "bugfixCommitRatio": 0.08,
     "workflowStability": 12.5,
-    "recentActivityConcentration": 0.7
+    "recentActivityConcentration": 0.77
   },
   "styleDistribution": {
     "卷王型": 0,
@@ -27,17 +27,17 @@
     "mostActive": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 10.45
+      "score": 14.8
     },
     "healthiest": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 80.4
+      "score": 70.4
     },
     "mostChaotic": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 19.2
+      "score": 29.2
     },
     "sleepiest": {
       "name": "c",
@@ -47,14 +47,14 @@
     "highestGrowth": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 10.5
+      "score": 15
     }
   },
   "persona": {
     "personaType": "order_keeper",
     "personaTitle": "秩序维护者",
     "personaMood": "happy",
-    "personaSummary": "节奏稳健，健康值 50.25，CI 稳定性 12.5。",
+    "personaSummary": "节奏稳健，健康值 48.25，CI 稳定性 12.5。",
     "dominantTrait": "健康度领先",
     "warningTrait": "CI 稳定性待提升"
   },
@@ -66,15 +66,15 @@
       "species": "neon_slime",
       "styleTag": "养老型",
       "stats": {
-        "health": 79,
+        "health": 71,
         "mood": 61,
-        "growth": 7,
-        "chaos": 18
+        "growth": 10,
+        "chaos": 28
       },
       "stage": "egg",
       "expression": "happy",
-      "statusLine": "Steady commits keep my pixels sparkling.",
-      "commitsLast30d": 7,
+      "statusLine": "Momentum looks healthy. I am thriving on this cadence.",
+      "commitsLast30d": 10,
       "daysSinceLastCommit": 0,
       "workflowSuccessRate30d": 50
     },
