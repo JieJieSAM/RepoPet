@@ -32,3 +32,19 @@ export interface GitHubActivityRawData {
   workflowRuns: GitHubWorkflowRunActivity[];
   latestWorkflowConclusion: WorkflowConclusion;
 }
+
+export interface GitHubOwnerRepositoryRaw {
+  name: string;
+  full_name: string;
+  owner: {
+    login: string;
+  };
+  description: string | null;
+  language: string | null;
+  default_branch: string;
+  private: boolean;
+  fork: boolean;
+  archived: boolean;
+  updated_at: string;
+  pushed_at: string;
+}
