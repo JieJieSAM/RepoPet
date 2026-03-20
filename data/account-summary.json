@@ -1,20 +1,20 @@
 {
   "owner": "JieJieSAM",
-  "generatedAt": "2026-03-19T05:03:28.108Z",
+  "generatedAt": "2026-03-20T04:57:52.991Z",
   "totalReposScanned": 4,
   "metrics": {
     "averageStats": {
-      "health": 50.5,
-      "mood": 29,
-      "growth": 10,
-      "chaos": 17.5
+      "health": 50.25,
+      "mood": 29.25,
+      "growth": 11,
+      "chaos": 15.5
     },
     "activeReposCount": 2,
     "dormantReposCount": 2,
-    "activitySpread": 5.76,
-    "bugfixCommitRatio": 0.06,
-    "workflowStability": 20.83,
-    "recentActivityConcentration": 0.82
+    "activitySpread": 6.61,
+    "bugfixCommitRatio": 0.05,
+    "workflowStability": 21.88,
+    "recentActivityConcentration": 0.84
   },
   "styleDistribution": {
     "卷王型": 0,
@@ -27,17 +27,17 @@
     "mostActive": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 21.2
+      "score": 24.4
     },
     "healthiest": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 82.73
+      "score": 85.75
     },
     "mostChaotic": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 29.2
+      "score": 21.2
     },
     "sleepiest": {
       "name": "c",
@@ -47,14 +47,14 @@
     "highestGrowth": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 32
+      "score": 37
     }
   },
   "persona": {
     "personaType": "order_keeper",
     "personaTitle": "秩序维护者",
     "personaMood": "happy",
-    "personaSummary": "节奏稳健，健康值 50.5，CI 稳定性 20.83。",
+    "personaSummary": "节奏稳健，健康值 50.25，CI 稳定性 21.88。",
     "dominantTrait": "健康度领先",
     "warningTrait": "CI 稳定性待提升"
   },
@@ -66,17 +66,17 @@
       "species": "neon_slime",
       "styleTag": "稳定型",
       "stats": {
-        "health": 80,
-        "mood": 66,
-        "growth": 25,
-        "chaos": 28
+        "health": 81,
+        "mood": 69,
+        "growth": 29,
+        "chaos": 20
       },
       "stage": "baby",
       "expression": "happy",
       "statusLine": "Momentum looks healthy. I am thriving on this cadence.",
-      "commitsLast30d": 14,
+      "commitsLast30d": 16,
       "daysSinceLastCommit": 0,
-      "workflowSuccessRate30d": 83.33
+      "workflowSuccessRate30d": 87.5
     },
     {
       "name": "TA_Recruitment",
@@ -85,8 +85,8 @@
       "species": "block_bear",
       "styleTag": "养老型",
       "stats": {
-        "health": 58,
-        "mood": 42,
+        "health": 56,
+        "mood": 40,
         "growth": 3,
         "chaos": 14
       },
@@ -94,7 +94,7 @@
       "expression": "stressed",
       "statusLine": "Work is moving, chaos is manageable, caffeine is implied.",
       "commitsLast30d": 3,
-      "daysSinceLastCommit": 2,
+      "daysSinceLastCommit": 3,
       "workflowSuccessRate30d": 0
     },
     {
