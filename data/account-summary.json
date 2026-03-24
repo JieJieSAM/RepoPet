@@ -1,20 +1,20 @@
 {
   "owner": "JieJieSAM",
-  "generatedAt": "2026-03-23T05:14:57.125Z",
+  "generatedAt": "2026-03-24T05:04:11.332Z",
   "totalReposScanned": 4,
   "metrics": {
     "averageStats": {
-      "health": 48.5,
-      "mood": 29.5,
-      "growth": 13.5,
+      "health": 48,
+      "mood": 26.75,
+      "growth": 16.5,
       "chaos": 15.5
     },
     "activeReposCount": 2,
     "dormantReposCount": 2,
-    "activitySpread": 9.18,
+    "activitySpread": 10.03,
     "bugfixCommitRatio": 0.04,
-    "workflowStability": 23.21,
-    "recentActivityConcentration": 0.88
+    "workflowStability": 23.44,
+    "recentActivityConcentration": 0.89
   },
   "styleDistribution": {
     "卷王型": 0,
@@ -27,12 +27,12 @@
     "mostActive": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 34
+      "score": 37.2
     },
     "healthiest": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 87.29
+      "score": 87.38
     },
     "mostChaotic": {
       "name": "RepoPet",
@@ -47,14 +47,14 @@
     "highestGrowth": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 50
+      "score": 55
     }
   },
   "persona": {
     "personaType": "order_keeper",
     "personaTitle": "秩序维护者",
     "personaMood": "happy",
-    "personaSummary": "节奏稳健，健康值 48.5，CI 稳定性 23.21。",
+    "personaSummary": "节奏稳健，健康值 48，CI 稳定性 23.44。",
     "dominantTrait": "健康度领先",
     "warningTrait": "CI 稳定性待提升"
   },
@@ -67,16 +67,16 @@
       "styleTag": "稳定型",
       "stats": {
         "health": 82,
-        "mood": 78,
-        "growth": 39,
+        "mood": 80,
+        "growth": 43,
         "chaos": 20
       },
       "stage": "baby",
       "expression": "happy",
       "statusLine": "Steady commits keep my pixels sparkling.",
-      "commitsLast30d": 22,
+      "commitsLast30d": 24,
       "daysSinceLastCommit": 0,
-      "workflowSuccessRate30d": 92.86
+      "workflowSuccessRate30d": 93.75
     },
     {
       "name": "TA_Recruitment",
@@ -85,16 +85,16 @@
       "species": "block_bear",
       "styleTag": "养老型",
       "stats": {
-        "health": 48,
-        "mood": 32,
-        "growth": 3,
+        "health": 46,
+        "mood": 19,
+        "growth": 11,
         "chaos": 14
       },
       "stage": "egg",
-      "expression": "stressed",
-      "statusLine": "I am stable-ish, but the backlog is staring at me.",
+      "expression": "sleepy",
+      "statusLine": "Quiet week. I am entering low-power mode.",
       "commitsLast30d": 3,
-      "daysSinceLastCommit": 6,
+      "daysSinceLastCommit": 7,
       "workflowSuccessRate30d": 0
     },
     {
