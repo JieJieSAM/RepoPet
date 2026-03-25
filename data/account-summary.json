@@ -1,20 +1,20 @@
 {
   "owner": "JieJieSAM",
-  "generatedAt": "2026-03-24T05:04:11.332Z",
+  "generatedAt": "2026-03-25T05:04:25.133Z",
   "totalReposScanned": 4,
   "metrics": {
     "averageStats": {
-      "health": 48,
-      "mood": 26.75,
-      "growth": 16.5,
-      "chaos": 15.5
+      "health": 47.75,
+      "mood": 26.5,
+      "growth": 17.25,
+      "chaos": 13
     },
-    "activeReposCount": 2,
+    "activeReposCount": 1,
     "dormantReposCount": 2,
-    "activitySpread": 10.03,
-    "bugfixCommitRatio": 0.04,
-    "workflowStability": 23.44,
-    "recentActivityConcentration": 0.89
+    "activitySpread": 10.89,
+    "bugfixCommitRatio": 0.03,
+    "workflowStability": 23.61,
+    "recentActivityConcentration": 0.9
   },
   "styleDistribution": {
     "卷王型": 0,
@@ -27,17 +27,17 @@
     "mostActive": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 37.2
+      "score": 35.45
     },
     "healthiest": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 87.38
+      "score": 90.44
     },
     "mostChaotic": {
-      "name": "RepoPet",
-      "fullName": "JieJieSAM/RepoPet",
-      "score": 21.2
+      "name": "c",
+      "fullName": "JieJieSAM/c",
+      "score": 14
     },
     "sleepiest": {
       "name": "c",
@@ -47,14 +47,14 @@
     "highestGrowth": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 55
+      "score": 59
     }
   },
   "persona": {
     "personaType": "order_keeper",
     "personaTitle": "秩序维护者",
     "personaMood": "happy",
-    "personaSummary": "节奏稳健，健康值 48，CI 稳定性 23.44。",
+    "personaSummary": "节奏稳健，健康值 47.75，CI 稳定性 23.61。",
     "dominantTrait": "健康度领先",
     "warningTrait": "CI 稳定性待提升"
   },
@@ -66,17 +66,17 @@
       "species": "neon_slime",
       "styleTag": "稳定型",
       "stats": {
-        "health": 82,
-        "mood": 80,
-        "growth": 43,
-        "chaos": 20
+        "health": 83,
+        "mood": 82,
+        "growth": 46,
+        "chaos": 10
       },
-      "stage": "baby",
+      "stage": "teen",
       "expression": "happy",
-      "statusLine": "Steady commits keep my pixels sparkling.",
-      "commitsLast30d": 24,
+      "statusLine": "Momentum looks healthy. I am thriving on this cadence.",
+      "commitsLast30d": 26,
       "daysSinceLastCommit": 0,
-      "workflowSuccessRate30d": 93.75
+      "workflowSuccessRate30d": 94.44
     },
     {
       "name": "TA_Recruitment",
@@ -85,8 +85,8 @@
       "species": "block_bear",
       "styleTag": "养老型",
       "stats": {
-        "health": 46,
-        "mood": 19,
+        "health": 44,
+        "mood": 16,
         "growth": 11,
         "chaos": 14
       },
@@ -94,7 +94,7 @@
       "expression": "sleepy",
       "statusLine": "Quiet week. I am entering low-power mode.",
       "commitsLast30d": 3,
-      "daysSinceLastCommit": 7,
+      "daysSinceLastCommit": 8,
       "workflowSuccessRate30d": 0
     },
     {
