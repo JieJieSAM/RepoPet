@@ -1,19 +1,19 @@
 {
   "owner": "JieJieSAM",
-  "generatedAt": "2026-03-25T05:04:25.133Z",
+  "generatedAt": "2026-03-26T05:17:14.811Z",
   "totalReposScanned": 4,
   "metrics": {
     "averageStats": {
-      "health": 47.75,
-      "mood": 26.5,
-      "growth": 17.25,
+      "health": 47,
+      "mood": 25.75,
+      "growth": 18.25,
       "chaos": 13
     },
     "activeReposCount": 1,
     "dormantReposCount": 2,
-    "activitySpread": 10.89,
+    "activitySpread": 11.76,
     "bugfixCommitRatio": 0.03,
-    "workflowStability": 23.61,
+    "workflowStability": 23.75,
     "recentActivityConcentration": 0.9
   },
   "styleDistribution": {
@@ -27,12 +27,12 @@
     "mostActive": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 35.45
+      "score": 36.85
     },
     "healthiest": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 90.44
+      "score": 90.5
     },
     "mostChaotic": {
       "name": "c",
@@ -47,14 +47,14 @@
     "highestGrowth": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 59
+      "score": 64
     }
   },
   "persona": {
     "personaType": "order_keeper",
     "personaTitle": "秩序维护者",
     "personaMood": "happy",
-    "personaSummary": "节奏稳健，健康值 47.75，CI 稳定性 23.61。",
+    "personaSummary": "节奏稳健，健康值 47，CI 稳定性 23.75。",
     "dominantTrait": "健康度领先",
     "warningTrait": "CI 稳定性待提升"
   },
@@ -68,15 +68,15 @@
       "stats": {
         "health": 83,
         "mood": 82,
-        "growth": 46,
+        "growth": 50,
         "chaos": 10
       },
       "stage": "teen",
       "expression": "happy",
       "statusLine": "Momentum looks healthy. I am thriving on this cadence.",
-      "commitsLast30d": 26,
+      "commitsLast30d": 28,
       "daysSinceLastCommit": 0,
-      "workflowSuccessRate30d": 94.44
+      "workflowSuccessRate30d": 95
     },
     {
       "name": "TA_Recruitment",
@@ -85,8 +85,8 @@
       "species": "block_bear",
       "styleTag": "养老型",
       "stats": {
-        "health": 44,
-        "mood": 16,
+        "health": 41,
+        "mood": 13,
         "growth": 11,
         "chaos": 14
       },
@@ -94,7 +94,7 @@
       "expression": "sleepy",
       "statusLine": "Quiet week. I am entering low-power mode.",
       "commitsLast30d": 3,
-      "daysSinceLastCommit": 8,
+      "daysSinceLastCommit": 9,
       "workflowSuccessRate30d": 0
     },
     {
