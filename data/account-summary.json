@@ -1,20 +1,20 @@
 {
   "owner": "JieJieSAM",
-  "generatedAt": "2026-03-28T05:03:26.969Z",
+  "generatedAt": "2026-03-29T05:20:36.115Z",
   "totalReposScanned": 4,
   "metrics": {
     "averageStats": {
-      "health": 45.75,
-      "mood": 24.5,
-      "growth": 20,
+      "health": 45.25,
+      "mood": 24.25,
+      "growth": 21,
       "chaos": 13
     },
     "activeReposCount": 1,
     "dormantReposCount": 2,
-    "activitySpread": 13.48,
+    "activitySpread": 14.34,
     "bugfixCommitRatio": 0.03,
-    "workflowStability": 23.96,
-    "recentActivityConcentration": 0.91
+    "workflowStability": 24.04,
+    "recentActivityConcentration": 0.92
   },
   "styleDistribution": {
     "卷王型": 0,
@@ -27,12 +27,12 @@
     "mostActive": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 41.45
+      "score": 43.75
     },
     "healthiest": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 90.58
+      "score": 90.62
     },
     "mostChaotic": {
       "name": "c",
@@ -47,14 +47,14 @@
     "highestGrowth": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 73
+      "score": 78
     }
   },
   "persona": {
     "personaType": "order_keeper",
     "personaTitle": "秩序维护者",
     "personaMood": "happy",
-    "personaSummary": "节奏稳健，健康值 45.75，CI 稳定性 23.96。",
+    "personaSummary": "节奏稳健，健康值 45.25，CI 稳定性 24.04。",
     "dominantTrait": "健康度领先",
     "warningTrait": "CI 稳定性待提升"
   },
@@ -68,15 +68,15 @@
       "stats": {
         "health": 83,
         "mood": 82,
-        "growth": 57,
+        "growth": 61,
         "chaos": 10
       },
       "stage": "teen",
       "expression": "proud",
-      "statusLine": "Stable build, good mood, still hungry for PRs.",
-      "commitsLast30d": 32,
+      "statusLine": "Merged code detected. Evolution energy rising.",
+      "commitsLast30d": 34,
       "daysSinceLastCommit": 0,
-      "workflowSuccessRate30d": 95.83
+      "workflowSuccessRate30d": 96.15
     },
     {
       "name": "TA_Recruitment",
@@ -85,8 +85,8 @@
       "species": "block_bear",
       "styleTag": "养老型",
       "stats": {
-        "health": 36,
-        "mood": 8,
+        "health": 34,
+        "mood": 7,
         "growth": 11,
         "chaos": 14
       },
@@ -94,7 +94,7 @@
       "expression": "sleepy",
       "statusLine": "Quiet week. I am entering low-power mode.",
       "commitsLast30d": 3,
-      "daysSinceLastCommit": 11,
+      "daysSinceLastCommit": 12,
       "workflowSuccessRate30d": 0
     },
     {
