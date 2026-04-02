@@ -1,19 +1,19 @@
 {
   "owner": "JieJieSAM",
-  "generatedAt": "2026-04-01T05:31:54.845Z",
+  "generatedAt": "2026-04-02T05:14:30.121Z",
   "totalReposScanned": 4,
   "metrics": {
     "averageStats": {
       "health": 44.75,
       "mood": 24.25,
-      "growth": 23.5,
+      "growth": 24.5,
       "chaos": 13
     },
     "activeReposCount": 1,
     "dormantReposCount": 2,
-    "activitySpread": 16.93,
+    "activitySpread": 17.8,
     "bugfixCommitRatio": 0.02,
-    "workflowStability": 24.22,
+    "workflowStability": 24.27,
     "recentActivityConcentration": 0.93
   },
   "styleDistribution": {
@@ -27,12 +27,12 @@
     "mostActive": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 50.65
+      "score": 53.85
     },
     "healthiest": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 90.69
+      "score": 90.71
     },
     "mostChaotic": {
       "name": "c",
@@ -47,14 +47,14 @@
     "highestGrowth": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 91
+      "score": 96
     }
   },
   "persona": {
     "personaType": "order_keeper",
     "personaTitle": "秩序维护者",
     "personaMood": "happy",
-    "personaSummary": "节奏稳健，健康值 44.75，CI 稳定性 24.22。",
+    "personaSummary": "节奏稳健，健康值 44.75，CI 稳定性 24.27。",
     "dominantTrait": "健康度领先",
     "warningTrait": "CI 稳定性待提升"
   },
@@ -68,15 +68,15 @@
       "stats": {
         "health": 83,
         "mood": 82,
-        "growth": 71,
+        "growth": 75,
         "chaos": 10
       },
-      "stage": "teen",
+      "stage": "final",
       "expression": "proud",
-      "statusLine": "Merged code detected. Evolution energy rising.",
-      "commitsLast30d": 40,
+      "statusLine": "Stable build, good mood, still hungry for PRs.",
+      "commitsLast30d": 42,
       "daysSinceLastCommit": 0,
-      "workflowSuccessRate30d": 96.88
+      "workflowSuccessRate30d": 97.06
     },
     {
       "name": "TA_Recruitment",
@@ -94,7 +94,7 @@
       "expression": "sleepy",
       "statusLine": "Quiet week. I am entering low-power mode.",
       "commitsLast30d": 3,
-      "daysSinceLastCommit": 15,
+      "daysSinceLastCommit": 16,
       "workflowSuccessRate30d": 0
     },
     {
