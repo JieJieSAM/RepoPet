@@ -4,7 +4,7 @@
     <rect x="16" y="16" width="1168" height="164" rx="18" fill="#FFF8E9" stroke="#E2C99B" stroke-width="2" />
     <text x="36" y="52" font-family="Verdana, sans-serif" font-size="28" font-weight="700" fill="#2D2A26">RepoPet Zoo · JieJieSAM</text>
     <text x="36" y="82" font-family="Verdana, sans-serif" font-size="20" fill="#5C3B1C">秩序维护者</text>
-    <text x="36" y="110" font-family="Verdana, sans-serif" font-size="14" fill="#3A3A3A">节奏稳健，健康值 44.75，CI 稳定性 24.41。</text>
+    <text x="36" y="110" font-family="Verdana, sans-serif" font-size="14" fill="#3A3A3A">节奏稳健，健康值 44.75，CI 稳定性 24.43。</text>
     <text x="36" y="136" font-family="Verdana, sans-serif" font-size="13" fill="#3A3A3A">主导特征: 健康度领先</text>
     <text x="36" y="158" font-family="Verdana, sans-serif" font-size="13" fill="#864E39">提醒信号: CI 稳定性待提升</text>
 
@@ -179,8 +179,8 @@
   
     <rect x="16" y="554" width="1168" height="138" rx="16" fill="#FFFDF7" stroke="#E0D6C3" />
     <text x="36" y="582" font-family="Verdana, sans-serif" font-size="16" font-weight="700" fill="#2B2B2B">Zoo Highlights</text>
-    <text x="36" y="608" font-family="Verdana, sans-serif" font-size="13" fill="#3E3E3E">最活跃仓库: RepoPet (62.15)</text>
-    <text x="36" y="630" font-family="Verdana, sans-serif" font-size="13" fill="#3E3E3E">最健康仓库: RepoPet (90.76)</text>
+    <text x="36" y="608" font-family="Verdana, sans-serif" font-size="13" fill="#3E3E3E">最活跃仓库: RepoPet (64.45)</text>
+    <text x="36" y="630" font-family="Verdana, sans-serif" font-size="13" fill="#3E3E3E">最健康仓库: RepoPet (90.77)</text>
     <text x="36" y="652" font-family="Verdana, sans-serif" font-size="13" fill="#3E3E3E">最混沌仓库: c (14)</text>
     <text x="620" y="608" font-family="Verdana, sans-serif" font-size="13" fill="#3E3E3E">最想睡仓库: c (145.4)</text>
     <text x="620" y="630" font-family="Verdana, sans-serif" font-size="13" fill="#3E3E3E">扫描仓库数: 4 · 活跃: 1 · 冬眠: 2</text>

@@ -1,6 +1,6 @@
 {
   "owner": "JieJieSAM",
-  "generatedAt": "2026-04-06T05:34:03.304Z",
+  "generatedAt": "2026-04-07T05:20:10.608Z",
   "totalReposScanned": 4,
   "metrics": {
     "averageStats": {
@@ -11,10 +11,10 @@
     },
     "activeReposCount": 1,
     "dormantReposCount": 2,
-    "activitySpread": 21.25,
+    "activitySpread": 22.12,
     "bugfixCommitRatio": 0.02,
-    "workflowStability": 24.41,
-    "recentActivityConcentration": 0.94
+    "workflowStability": 24.43,
+    "recentActivityConcentration": 0.95
   },
   "styleDistribution": {
     "卷王型": 1,
@@ -27,12 +27,12 @@
     "mostActive": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 62.15
+      "score": 64.45
     },
     "healthiest": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 90.76
+      "score": 90.77
     },
     "mostChaotic": {
       "name": "c",
@@ -47,14 +47,14 @@
     "highestGrowth": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 105
+      "score": 106
     }
   },
   "persona": {
     "personaType": "order_keeper",
     "personaTitle": "秩序维护者",
     "personaMood": "happy",
-    "personaSummary": "节奏稳健，健康值 44.75，CI 稳定性 24.41。",
+    "personaSummary": "节奏稳健，健康值 44.75，CI 稳定性 24.43。",
     "dominantTrait": "健康度领先",
     "warningTrait": "CI 稳定性待提升"
   },
@@ -74,9 +74,9 @@
       "stage": "final",
       "expression": "proud",
       "statusLine": "Merged code detected. Evolution energy rising.",
-      "commitsLast30d": 50,
+      "commitsLast30d": 52,
       "daysSinceLastCommit": 0,
-      "workflowSuccessRate30d": 97.62
+      "workflowSuccessRate30d": 97.73
     },
     {
       "name": "TA_Recruitment",
@@ -94,7 +94,7 @@
       "expression": "sleepy",
       "statusLine": "Quiet week. I am entering low-power mode.",
       "commitsLast30d": 3,
-      "daysSinceLastCommit": 20,
+      "daysSinceLastCommit": 21,
       "workflowSuccessRate30d": 0
     },
     {
