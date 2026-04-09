@@ -1,6 +1,6 @@
 {
   "owner": "JieJieSAM",
-  "generatedAt": "2026-04-08T05:21:26.135Z",
+  "generatedAt": "2026-04-09T05:21:53.395Z",
   "totalReposScanned": 4,
   "metrics": {
     "averageStats": {
@@ -11,9 +11,9 @@
     },
     "activeReposCount": 1,
     "dormantReposCount": 3,
-    "activitySpread": 22.98,
+    "activitySpread": 23.85,
     "bugfixCommitRatio": 0.02,
-    "workflowStability": 24.46,
+    "workflowStability": 24.48,
     "recentActivityConcentration": 0.95
   },
   "styleDistribution": {
@@ -27,12 +27,12 @@
     "mostActive": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 67.65
+      "score": 69.05
     },
     "healthiest": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 90.78
+      "score": 90.79
     },
     "mostChaotic": {
       "name": "c",
@@ -47,7 +47,7 @@
     "highestGrowth": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 107
+      "score": 108
     }
   },
   "persona": {
@@ -74,9 +74,9 @@
       "stage": "final",
       "expression": "proud",
       "statusLine": "Merged code detected. Evolution energy rising.",
-      "commitsLast30d": 54,
+      "commitsLast30d": 56,
       "daysSinceLastCommit": 0,
-      "workflowSuccessRate30d": 97.83
+      "workflowSuccessRate30d": 97.92
     },
     {
       "name": "TA_Recruitment",
@@ -94,7 +94,7 @@
       "expression": "sleepy",
       "statusLine": "Quiet week. I am entering low-power mode.",
       "commitsLast30d": 3,
-      "daysSinceLastCommit": 22,
+      "daysSinceLastCommit": 23,
       "workflowSuccessRate30d": 0
     },
     {
