@@ -1,38 +1,38 @@
 {
   "owner": "JieJieSAM",
-  "generatedAt": "2026-04-15T05:32:43.802Z",
+  "generatedAt": "2026-04-16T05:38:16.957Z",
   "totalReposScanned": 4,
   "metrics": {
     "averageStats": {
       "health": 45,
       "mood": 24.25,
-      "growth": 25.75,
+      "growth": 24.75,
       "chaos": 13
     },
     "activeReposCount": 1,
     "dormantReposCount": 3,
-    "activitySpread": 29.04,
+    "activitySpread": 30.31,
     "bugfixCommitRatio": 0.01,
-    "workflowStability": 24.58,
-    "recentActivityConcentration": 0.96
+    "workflowStability": 24.6,
+    "recentActivityConcentration": 1
   },
   "styleDistribution": {
     "卷王型": 1,
-    "养老型": 1,
+    "养老型": 0,
     "修补型": 0,
-    "冬眠型": 2,
+    "冬眠型": 3,
     "稳定型": 0
   },
   "rankings": {
     "mostActive": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 82.85
+      "score": 85.15
     },
     "healthiest": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 91.83
+      "score": 91.84
     },
     "mostChaotic": {
       "name": "c",
@@ -47,7 +47,7 @@
     "highestGrowth": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 114
+      "score": 115
     }
   },
   "persona": {
@@ -74,27 +74,27 @@
       "stage": "final",
       "expression": "proud",
       "statusLine": "Merged code detected. Evolution energy rising.",
-      "commitsLast30d": 68,
+      "commitsLast30d": 70,
       "daysSinceLastCommit": 0,
-      "workflowSuccessRate30d": 98.33
+      "workflowSuccessRate30d": 98.39
     },
     {
       "name": "TA_Recruitment",
       "fullName": "JieJieSAM/TA_Recruitment",
       "language": "Java",
       "species": "block_bear",
-      "styleTag": "养老型",
+      "styleTag": "冬眠型",
       "stats": {
         "health": 32,
         "mood": 7,
-        "growth": 11,
+        "growth": 7,
         "chaos": 14
       },
       "stage": "egg",
       "expression": "sleepy",
       "statusLine": "Quiet week. I am entering low-power mode.",
-      "commitsLast30d": 3,
-      "daysSinceLastCommit": 29,
+      "commitsLast30d": 0,
+      "daysSinceLastCommit": 30,
       "workflowSuccessRate30d": 0
     },
     {
