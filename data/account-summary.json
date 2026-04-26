@@ -1,6 +1,6 @@
 {
   "owner": "JieJieSAM",
-  "generatedAt": "2026-04-25T05:22:11.174Z",
+  "generatedAt": "2026-04-26T05:46:37.417Z",
   "totalReposScanned": 4,
   "metrics": {
     "averageStats": {
@@ -27,7 +27,7 @@
     "mostActive": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 76.85
+      "score": 77.15
     },
     "healthiest": {
       "name": "RepoPet",
@@ -42,7 +42,7 @@
     "sleepiest": {
       "name": "TA_Recruitment",
       "fullName": "JieJieSAM/TA_Recruitment",
-      "score": 153.6
+      "score": 155
     },
     "highestGrowth": {
       "name": "RepoPet",
@@ -94,7 +94,7 @@
       "expression": "sleepy",
       "statusLine": "Quiet week. I am entering low-power mode.",
       "commitsLast30d": 0,
-      "daysSinceLastCommit": 39,
+      "daysSinceLastCommit": 40,
       "workflowSuccessRate30d": 0
     },
     {
