@@ -1,12 +1,12 @@
 {
   "owner": "JieJieSAM",
-  "generatedAt": "2026-05-15T06:41:28.597Z",
+  "generatedAt": "2026-05-16T06:06:26.528Z",
   "totalReposScanned": 4,
   "metrics": {
     "averageStats": {
       "health": 45,
-      "mood": 24.25,
-      "growth": 24.75,
+      "mood": 23.5,
+      "growth": 24.5,
       "chaos": 12
     },
     "activeReposCount": 1,
@@ -27,7 +27,7 @@
     "mostActive": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 82.85
+      "score": 83.15
     },
     "healthiest": {
       "name": "RepoPet",
@@ -40,9 +40,9 @@
       "score": 14
     },
     "sleepiest": {
-      "name": "TA_Recruitment",
-      "fullName": "JieJieSAM/TA_Recruitment",
-      "score": 181.6
+      "name": "c",
+      "fullName": "JieJieSAM/c",
+      "score": 145.4
     },
     "highestGrowth": {
       "name": "RepoPet",
@@ -86,15 +86,15 @@
       "styleTag": "冬眠型",
       "stats": {
         "health": 32,
-        "mood": 7,
-        "growth": 7,
+        "mood": 4,
+        "growth": 6,
         "chaos": 14
       },
       "stage": "egg",
       "expression": "sleepy",
       "statusLine": "Quiet week. I am entering low-power mode.",
       "commitsLast30d": 0,
-      "daysSinceLastCommit": 59,
+      "daysSinceLastCommit": 31,
       "workflowSuccessRate30d": 0
     },
     {
