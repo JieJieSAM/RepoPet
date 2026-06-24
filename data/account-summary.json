@@ -1,6 +1,6 @@
 {
   "owner": "JieJieSAM",
-  "generatedAt": "2026-06-23T06:58:32.238Z",
+  "generatedAt": "2026-06-24T06:56:12.669Z",
   "totalReposScanned": 4,
   "metrics": {
     "averageStats": {
@@ -11,7 +11,7 @@
     },
     "activeReposCount": 1,
     "dormantReposCount": 3,
-    "activitySpread": 25.55,
+    "activitySpread": 26.41,
     "bugfixCommitRatio": 0,
     "workflowStability": 25,
     "recentActivityConcentration": 1
@@ -27,7 +27,7 @@
     "mostActive": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 83.75
+      "score": 85.75
     },
     "healthiest": {
       "name": "RepoPet",
@@ -47,7 +47,7 @@
     "highestGrowth": {
       "name": "RepoPet",
       "fullName": "JieJieSAM/RepoPet",
-      "score": 109.5
+      "score": 110.5
     }
   },
   "persona": {
@@ -74,7 +74,7 @@
       "stage": "final",
       "expression": "proud",
       "statusLine": "Stable build, good mood, still hungry for PRs.",
-      "commitsLast30d": 59,
+      "commitsLast30d": 61,
       "daysSinceLastCommit": 0,
       "workflowSuccessRate30d": 100
     },
